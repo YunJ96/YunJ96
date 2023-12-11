@@ -1,7 +1,5 @@
 ### 김윤중입니다. 🙇‍♂️
 
-🌱 Node.js 공부하는 중...
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunJ96&show_icons=true&theme=vue)
 
 <!--
