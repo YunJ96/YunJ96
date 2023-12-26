@@ -32,6 +32,7 @@
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
+        <img src="https://img.shields.io/badge/node-228b22?style=for-the-badge&logo=nodejs&logoColor=green">
         <img src="https://img.shields.io/badge/express-a5ea89?style=for-the-badge&logo=express&logoColor=white">
     </div>
     <!-- Database -->
@@ -42,8 +43,11 @@
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/gitlab-f14e32?style=flat-square&logo=android studio&logoColor=white">
+      <a href="https://kimyunjung.notion.site/5f157598f46b48afa66b50a53957f4dc?pvs=4">
+        <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+      <a>
+      <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=kotlin&logoColor=white">
+      <img src="https://img.shields.io/badge/gitlab-f14e32?style=flat-square&logo=android studio&logoColor=white">
 </div><br>
 </div>
 
