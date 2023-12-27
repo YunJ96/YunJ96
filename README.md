@@ -46,8 +46,8 @@
       <a href="https://kimyunjung.notion.site/5f157598f46b48afa66b50a53957f4dc?pvs=4">
         <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
       <a>
-      <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=kotlin&logoColor=white">
-      <img src="https://img.shields.io/badge/gitlab-f14e32?style=flat-square&logo=android studio&logoColor=white">
+      <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/gitlab-f14e32?style=flat-square&logo=gitlab&logoColor=white">
 </div><br>
 </div>
 
