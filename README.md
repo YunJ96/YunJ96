@@ -29,6 +29,7 @@
       <img src="https://img.shields.io/badge/react-61dafb?style=flat-square&logo=react&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-3178c6?style=flat-square&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white">
       <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
     </div>
     <!-- Backend -->
